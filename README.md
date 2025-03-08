@@ -64,4 +64,5 @@ La evolución desde el SR Latch hasta el D Flip-Flop muestra la importancia de m
 
 VIDEOS
 
-Video 1Video 2
+Video 1 https://youtu.be/imEMMmzGb5g
+Video 2 https://youtu.be/q58DtZRR4cY
